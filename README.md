@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚀 Android Full Stack Developer | Java | 🚀
+🚀 Android Full Stack Developer 🚀
 
 I'm passionate about crafting seamless digital experiences, I specialize in full-stack development for Android applications.
 I'm proficient in Java, I bring a wealth of expertise in building robust and user-friendly mobile solutions.
