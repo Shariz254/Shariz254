@@ -7,7 +7,7 @@ I'm proficient in Java, I bring a wealth of expertise in building robust and use
 
 🔍 Skills:
 
-* Android Development (Java/Kotlin)
+* Android Development (Java/Kotlin/Jetpack Compose)
 * Flutter/Dart
 * RESTful APIs
 * UI/UX Design
